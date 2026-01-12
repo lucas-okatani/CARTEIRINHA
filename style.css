@@ -124,3 +124,7 @@ body {
   font-weight: 600;
   cursor: pointer;
 }
+
+a{
+  text-decoration: none;
+}
